@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 class ShapeDetector:
-    shapes = shapes = {
+    shapes = {
             3: "TRIANGLE",
             4: "SQUARE",
             5: "PENTAGON",
